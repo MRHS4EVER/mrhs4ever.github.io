@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.mrhs4ever.twa",
+        "sha256_cert_fingerprints": ["98:FB:A5:7E:3A:24:F6:52:C2:A2:CB:A7:51:FC:CC:DE:A2:98:05:EA:9E:8A:3F:D8:AA:5B:CC:42:DB:85:9E:50"]
+      }
+    }]
